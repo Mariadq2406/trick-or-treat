@@ -111,9 +111,11 @@ function love.update(dt)
 
     if state == 0 then
         soundtrack:play()
+        gameover:stop()
  
     elseif state == 1 then   
         soundtrack:play()
+        gameover:stop()
 
 -- El enemigo se hace más rápido --
 
@@ -139,6 +141,7 @@ function love.update(dt)
 -- La música se detiene cuando el jugador pierde --
 
     elseif state == 2 then
+       gameover:play()
         soundtrack:stop()
     end
 

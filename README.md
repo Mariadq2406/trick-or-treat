@@ -6,7 +6,7 @@ Juego hecho en LOVE2D por Mariadq2406.
 
 - Pixel art: Hecho en Piskel por Mariadq2406.
 
-- Música: -Creepy march (https://www.youtube.com/watch?v=slWc08SN9W8), Time - feel so sleep (https://www.youtube.com/watch?v=o_CZbGQxhKw&t=20s)
+- Música: -Creepy march (https://www.youtube.com/watch?v=slWc08SN9W8), spooky dance (https://www.youtube.com/watch?v=-TcXPzeO9Cw)
 
 - Fuentes: Alkhemikal (https://fontenddev.com/fonts/alkhemikal/)
 

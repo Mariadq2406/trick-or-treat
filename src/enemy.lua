@@ -54,7 +54,6 @@ function newEnemy(x)
                 player.tintRed()
                 health.current = health.current - 0.05
                 if health.current <= 1 then 
-                    love.audio.play(gameover)
                     state = 2
         end
         love.filesystem.write("highscore.txt", highscore)
