@@ -1,4 +1,4 @@
-# Trick or treat 
+# TRICK OR TREAT
 
 Juego hecho en LOVE2D por Mariadq2406. 
 
