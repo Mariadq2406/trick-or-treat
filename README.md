@@ -12,6 +12,6 @@ Juego hecho en LOVE2D por Mariadq2406.
 
 - Otros recursos: Pinos (https://wildfirehomepro.com/wp-content/uploads/2017/12/background-6.png), Niebla (https://www.pngplay.com/wp-content/uploads/13/Fog-Background-PNG-Image-1.png)
 
-## Capturas
+## Captura
 
 ![trick_or_treat_game](https://user-images.githubusercontent.com/80930047/217430744-631fa6ae-174a-43a7-9208-c52048143ca1.png)
